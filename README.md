@@ -1,6 +1,6 @@
 # qutebrowser-config
 Configuration files for qutebrowser
-
+qutebrowser 配置_colemak配置
 ## Usage:
 Backup existing qutebrowser config:
 
@@ -22,6 +22,7 @@ git clone https://github.com/adlawren/qutebrowser-config.git ~/.config/qutebrows
   * J -> E (scroll down)
   * K -> U (scroll up)
   * L -> I (scroll right)
-  * N -> K (iterate through search results)
+  * N -> K (iterate through search results)使用/ 查找时用k遍历符合的对象S-k反向遍历
   * S -> J (misc. settings operations)
   * U -> H (undo tab closure)
+  
